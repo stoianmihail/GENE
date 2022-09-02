@@ -11,6 +11,8 @@
 #include <sys/time.h>  // gettime
 #include <algorithm>   // std::random_shuffle
 #include <map>
+#include <optional>
+#include <limits>
 #include <vector>
 #include <utility>
 

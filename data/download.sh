@@ -1,4 +1,4 @@
-#!bash
+#!/usr/bin/bash
 # set -x
 
 # Author: Marcel Maltry <marcel.maltry@bigdata.uni-saarland.de>
